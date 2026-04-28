@@ -1,0 +1,41 @@
+OS => operating system 
+
+A intermediary layer between application and hardware 
+
+let suppose if i want run a game in my pc 
+
+in order to play a game there need to be ram , cpu , gpu 
+
+game takes 3gb ram , 2cpu , it require graphic card (gpu) who allocate them to game 
+
+if there is no os every time i need to manually allocate these , i need to write my own isolation logic , i don't only play game , i open Youtube, gallery ...etc 
+
+so os plays a crucial role by allocating the resource, process management , Hardware management .. etc 
+
+some poular Operating systems Windows, Linux , mac 
+
+Kernal => kernel is part of os (with the help of kernel os talks to hardware ) 
+Kernal acts as the primary bridge between software applications and physical hardware
+
+Linux is a kernel or os 
+Linux is an opensource kernel 
+
+We have distributions (Destro)  Ubuntu , Kali, Centos, RedHat ..etc
+
+Distributions means Os+Gui  
+complete operating systems combining the Linux kernel, system tools, and software, often including a GUI
+
+=========================================================================================================
+so now why os needed and why to learn Linux 
+
+If you have application , where you deploy ? 
+In a system/Computer ?
+which include Ram, cpu, Gpu, Os 
+
+Linux is widely used in modern Day because the features it provides 
+1)cost Effective 
+2)open source 
+3)Great community support 
+4)Secure 
+4)Enterprise Support 
+===================================================================================================
